@@ -72,7 +72,7 @@ public class NavMenu extends AppCompatActivity
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.help) {
-            Intent help= new Intent(android.content.Intent.ACTION_VIEW, Uri.parse("https://gett.com/"));
+            Intent help= new Intent(android.content.Intent.ACTION_VIEW, Uri.parse("https://gett.com/il/faq/drivers/"));
             startActivity(help);
 
         }
