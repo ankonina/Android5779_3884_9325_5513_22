@@ -16,7 +16,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.example.morganeankonina.android5779_3884_9325_5513_2.R;
-
+//bla
 public class NavMenu extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
